@@ -1,6 +1,6 @@
 # ATtiny85-based-USB-C-Tester
 
-designe credit to : - https://oshwlab.com/wagiminator/attiny85-usb-c-tester
+
 
 ![image](https://user-images.githubusercontent.com/19898602/159016797-cd10cd7e-3c65-4f68-a068-8c34d8b91b72.png)
 
