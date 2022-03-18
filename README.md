@@ -19,6 +19,19 @@ The device measures
 
 and displays the values on an OLED screen. You can switch between different screens by pressing the SET button.
 
+
+# Circuit diagram 
+
+![image](https://user-images.githubusercontent.com/19898602/159018437-68980ed4-dceb-4ad0-8b68-59e58a632e87.png)
+
+![image](https://user-images.githubusercontent.com/19898602/159019267-a6b81348-b2aa-4903-aaa2-1157bce01090.png)
+
+![image](https://user-images.githubusercontent.com/19898602/159019338-53ee50e2-93df-4f16-abfb-72b0e38e0e72.png)
+
+![image](https://user-images.githubusercontent.com/19898602/159019776-c7b7086e-d09c-4b1c-a112-c8c0b91b417c.png)
+
+
+
 # Hardware 
 
 USB Connectors
