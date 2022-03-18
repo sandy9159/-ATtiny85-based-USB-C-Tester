@@ -30,6 +30,7 @@ and displays the values on an OLED screen. You can switch between different scre
 
 ![image](https://user-images.githubusercontent.com/19898602/159019776-c7b7086e-d09c-4b1c-a112-c8c0b91b417c.png)
 
+[USB_C_Tester_gerber_v1.0b.zip](https://github.com/sandy9159/ATtiny85-based-USB-C-Tester/files/8305138/USB_C_Tester_gerber_v1.0b.zip)
 
 
 # Hardware 
