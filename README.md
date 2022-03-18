@@ -24,7 +24,7 @@ and displays the values on an OLED screen. You can switch between different scre
 
 ![image](https://user-images.githubusercontent.com/19898602/159018437-68980ed4-dceb-4ad0-8b68-59e58a632e87.png)
 
-![image](https://user-images.githubusercontent.com/19898602/159019267-a6b81348-b2aa-4903-aaa2-1157bce01090.png)
+![image](https://user-images.githubusercontent.com/19898602/159020151-eefe0284-c947-4c7b-8fc4-2eaefce2c2e7.png)
 
 ![image](https://user-images.githubusercontent.com/19898602/159019338-53ee50e2-93df-4f16-abfb-72b0e38e0e72.png)
 
