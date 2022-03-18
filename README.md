@@ -31,7 +31,41 @@ and displays the values on an OLED screen. You can switch between different scre
 
 ![image](https://user-images.githubusercontent.com/19898602/159019776-c7b7086e-d09c-4b1c-a112-c8c0b91b417c.png)
 
+
+![image](https://user-images.githubusercontent.com/19898602/159020608-3df3cf5c-dc08-4fdb-a4f4-1c0d40e3af0f.png)
+
+
+If you guys want to order the PCB please downlod the gerber file from here
+
 [USB_C_Tester_gerber_v1.0b.zip](https://github.com/sandy9159/ATtiny85-based-USB-C-Tester/files/8305138/USB_C_Tester_gerber_v1.0b.zip)
+
+I always prefer [JLCPCB.com](https://jlcpcb.com/IAT) for my PCB needs, [JLCPCB.com](https://jlcpcb.com/IAT) have best deals for their customers
+$2 for 1-4 Layer PCBs, free SMT assembly monthly.
+
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+
+
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $27 valued New User coupon  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of JLCPCB.com/PCW and save your time and money, get PCB ready for project, 200K+ components in library of JLCPCB.com/PCW as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $27 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+[Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
+
 
 
 # Hardware 
