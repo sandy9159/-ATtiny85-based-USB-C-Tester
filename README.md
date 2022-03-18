@@ -69,6 +69,10 @@ For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 [Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
 
+# Bill of Material for PCB
+
+![image](https://user-images.githubusercontent.com/19898602/159025575-29b911b5-7eee-4629-a875-402f918c851e.png)
+
 
 # Hardware 
 
