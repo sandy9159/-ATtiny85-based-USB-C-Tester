@@ -204,3 +204,10 @@ Voltage Measurement Resolution	4mV
 
 Current Measurement Resolution	1mA
 
+
+
+
+![DIY MINI GAME CONSOLE _ ATTINY 85_1](https://user-images.githubusercontent.com/19898602/159022413-d053aecb-6b87-4f75-a560-b7e811f27cba.gif)
+
+
+
