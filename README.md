@@ -34,6 +34,8 @@ and displays the values on an OLED screen. You can switch between different scre
 
 ![image](https://user-images.githubusercontent.com/19898602/159020608-3df3cf5c-dc08-4fdb-a4f4-1c0d40e3af0f.png)
 
+![image](https://user-images.githubusercontent.com/19898602/159021536-08d96af8-f76f-4b4e-8ba7-36a712048928.png)
+
 
 If you guys want to order the PCB please downlod the gerber file from here
 
